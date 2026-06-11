@@ -64,8 +64,8 @@ Tree-based models (Random Forest) and distance-based models like KNN on this dat
 | Model | Accuracy |
 |---|---|
 | Logistic Regression | 99.70% |
-| KNN (tuned) | **99.75%** ✅ |
-| Random Forest | 99.35% |
+| KNN (tuned) | **99.77%** ✅ |
+| Random Forest | 99.42% |
 | SVM (linear / rbf / poly) | ~99.70% |
 
 **KNN was selected as the final model** after hyperparameter tuning across k=1 to k=10.
